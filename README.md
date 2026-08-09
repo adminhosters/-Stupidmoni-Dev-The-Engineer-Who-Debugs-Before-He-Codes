@@ -1,20 +1,3 @@
-You're right — the image still isn't showing. Let me fix the URL. The issue is the repo name has special characters.
-
----
-
-🔧 TRY THESE 3 OPTIONS
-
-Option 1 — URL-Encoded Path
-
-```markdown
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adminhosters/-Stupidmoni-Dev-The-Engineer-Who-Debugs-Before-He-Codes/main/file_00000000791881f4bfa5832dda89e1b8.png" alt="Stupidmoni-Dev Flyer" width="800">
-</p>
-```
-
-Option 2 — Use GitHub Pages-style URL
-
-```markdown
 <p align="center">
   <img src="https://github.com/adminhosters/-Stupidmoni-Dev-The-Engineer-Who-Debugs-Before-He-Codes/blob/main/file_00000000791881f4bfa5832dda89e1b8.png?raw=true" alt="Stupidmoni-Dev Flyer" width="800">
 </p>
