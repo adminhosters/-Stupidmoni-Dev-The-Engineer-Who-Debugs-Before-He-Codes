@@ -267,6 +267,3 @@ You receive a **complete report** of everything done — every file changed, eve
 ---
 
 **🚀 Ready to fix, build, or automate? Message me on Telegram now — I respond in minutes. Free basic diagnostic audit available — see what's broken before you commit. Custom orders welcome.**
-```
-
---
