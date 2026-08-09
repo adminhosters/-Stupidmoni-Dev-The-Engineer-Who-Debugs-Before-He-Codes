@@ -1,25 +1,7 @@
 <p align="center">
-  <img src="https://github.com/adminhosters/-Stupidmoni-Dev-The-Engineer-Who-Debugs-Before-He-Codes/blob/main/file_00000000791881f4bfa5832dda89e1b8.png?raw=true" alt="Stupidmoni-Dev Flyer" width="800">
-</p>
-```
-
-Option 3 — Upload to a simpler repo path
-
-1. Create a new repo called assets (no special characters)
-2. Upload the image there as flyer.png
-3. Use this URL:
-
-```markdown
-<p align="center">
   <img src="https://raw.githubusercontent.com/adminhosters/assets/main/flyer.png" alt="Stupidmoni-Dev Flyer" width="800">
 </p>
-```
 
----
-
-✅ FULL README.md WITH OPTION 2 (Most Reliable)
-
-```markdown
 # 🚀 Stupidmoni-Dev — The Engineer Who Debugs Before He Codes
 
 > **"I don't guess. I audit. I debug. I build. I deploy. I secure — and I prove it with a free diagnostic before you pay a cent."**
