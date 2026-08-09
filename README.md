@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adminhosters/assets/main/flyer.png" alt="Stupidmoni-Dev Flyer" width="800">
-</p>
-
 # 🚀 Stupidmoni-Dev — The Engineer Who Debugs Before He Codes
 
 > **"I don't guess. I audit. I debug. I build. I deploy. I secure — and I prove it with a free diagnostic before you pay a cent."**
