@@ -1,6 +1,11 @@
+```markdown
 # 🚀 Stupidmoni-Dev — The Engineer Who Debugs Before He Codes
 
 > **"I don't guess. I audit. I debug. I build. I deploy. I secure — and I prove it with a free diagnostic before you pay a cent."**
+
+![Stupidmoni-Dev Flyer](https://raw.githubusercontent.com/adminhosters/-Stupidmoni-Dev-The-Engineer-Who-Debugs-Before-He-Codes/refs/heads/main/file_00000000791881f4bfa5832dda89e1b8.png)
+
+---
 
 ### 🔍 Forensic Debugging | 🏗️ Architecture | 🤖 Bots & Automation | 💱 Crypto & Fintech | 🔐 Biometric Security | 🌐 Website Resurrection
 
@@ -267,3 +272,4 @@ You receive a **complete report** of everything done — every file changed, eve
 ---
 
 **🚀 Ready to fix, build, or automate? Message me on Telegram now — I respond in minutes. Free basic diagnostic audit available — see what's broken before you commit. Custom orders welcome.**
+``
