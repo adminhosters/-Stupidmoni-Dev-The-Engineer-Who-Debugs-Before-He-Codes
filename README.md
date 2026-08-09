@@ -1,9 +1,49 @@
+You're right — the image still isn't showing. Let me fix the URL. The issue is the repo name has special characters.
+
+---
+
+🔧 TRY THESE 3 OPTIONS
+
+Option 1 — URL-Encoded Path
+
+```markdown
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adminhosters/-Stupidmoni-Dev-The-Engineer-Who-Debugs-Before-He-Codes/main/file_00000000791881f4bfa5832dda89e1b8.png" alt="Stupidmoni-Dev Flyer" width="800">
+</p>
+```
+
+Option 2 — Use GitHub Pages-style URL
+
+```markdown
+<p align="center">
+  <img src="https://github.com/adminhosters/-Stupidmoni-Dev-The-Engineer-Who-Debugs-Before-He-Codes/blob/main/file_00000000791881f4bfa5832dda89e1b8.png?raw=true" alt="Stupidmoni-Dev Flyer" width="800">
+</p>
+```
+
+Option 3 — Upload to a simpler repo path
+
+1. Create a new repo called assets (no special characters)
+2. Upload the image there as flyer.png
+3. Use this URL:
+
+```markdown
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adminhosters/assets/main/flyer.png" alt="Stupidmoni-Dev Flyer" width="800">
+</p>
+```
+
+---
+
+✅ FULL README.md WITH OPTION 2 (Most Reliable)
+
 ```markdown
 # 🚀 Stupidmoni-Dev — The Engineer Who Debugs Before He Codes
 
 > **"I don't guess. I audit. I debug. I build. I deploy. I secure — and I prove it with a free diagnostic before you pay a cent."**
 
-![Stupidmoni-Dev Flyer](https://raw.githubusercontent.com/adminhosters/-Stupidmoni-Dev-The-Engineer-Who-Debugs-Before-He-Codes/refs/heads/main/file_00000000791881f4bfa5832dda89e1b8.png)
+<p align="center">
+  <img src="https://github.com/adminhosters/-Stupidmoni-Dev-The-Engineer-Who-Debugs-Before-He-Codes/blob/main/file_00000000791881f4bfa5832dda89e1b8.png?raw=true" alt="Stupidmoni-Dev Flyer" width="800">
+</p>
 
 ---
 
@@ -272,4 +312,4 @@ You receive a **complete report** of everything done — every file changed, eve
 ---
 
 **🚀 Ready to fix, build, or automate? Message me on Telegram now — I respond in minutes. Free basic diagnostic audit available — see what's broken before you commit. Custom orders welcome.**
-``
+```
